@@ -1,2 +1,2 @@
 # PodcastSummaries
-Summaries of differnet podcasts
+Summaries of different podcasts
